@@ -1,0 +1,1 @@
+# remove_labels_on_ultrasound_image
